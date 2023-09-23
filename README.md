@@ -32,7 +32,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on ML Projects.
 - 💬 Ask me about Python and flutter.
-- 📫 How to reach me: [Your Contact Information].
+- 📫 How to reach me: jimira7sarange@gmail.com.
 
 ## My GitHub Stats
 
@@ -46,7 +46,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 
 Here are some of the projects I'm proud of:
 
-- [Project 1 Name](Link to Project 1): Short project description.
+- To-Do list(): Short project description.
 - [Project 2 Name](Link to Project 2): Short project description.
 
 ## Let's Connect
@@ -54,7 +54,7 @@ Here are some of the projects I'm proud of:
 - LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile URL)
 - Twitter: [Your Twitter Profile](Your Twitter Profile URL)
 - Personal Website/Blog: https://linktr.ee/rakshasria1
-- Email: [Your Email](mailto:youremail@example.com)
+- Email: jimira7sarange@gmail.com
 
 Feel free to reach out to me, and let's connect! 😊
 
