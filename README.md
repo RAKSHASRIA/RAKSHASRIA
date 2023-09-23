@@ -46,7 +46,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 
 Here are some of the projects I'm proud of:
 
-- To-Do list(): Short project description.
+- To-Do list(https://github.com/RAKSHASRIA/to-do-list.git): A intern task that gave me lot of knowledge and experiance. It is a ToDo list app which is useful for our daily routines...
 - [Project 2 Name](Link to Project 2): Short project description.
 
 ## Let's Connect
