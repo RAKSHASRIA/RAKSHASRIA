@@ -36,7 +36,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAKSHASRIA&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
