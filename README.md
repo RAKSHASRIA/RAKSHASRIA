@@ -55,7 +55,7 @@ Here are some of the projects I'm proud of:
 
 ## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/raksha-sri/
+- LinkedIn: https:https://www.linkedin.com/in/raksha-sri-237743250/
 - Personal Website/Blog: https://linktr.ee/rakshasria1
 - Email: jimira7sarange@gmail.com
 
