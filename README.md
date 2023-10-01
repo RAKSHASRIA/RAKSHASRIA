@@ -48,11 +48,14 @@ Here are some of the projects I'm proud of:
 
 - To-Do list(https://github.com/RAKSHASRIA/to-do-list.git): A intern task that gave me lot of knowledge and experiance. It is a ToDo list app which is useful for our daily routines...
 - [Project 2 Name](Link to Project 2): Short project description.
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAKSHASRIA&label=Profile%20views&color=0e75b6&style=flat" alt="rakshasria" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAKSHASRIA" alt="rakshasria" /></a> </p>
+
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile URL)
-- Twitter: [Your Twitter Profile](Your Twitter Profile URL)
+- LinkedIn: https://www.linkedin.com/in/raksha-sri/
 - Personal Website/Blog: https://linktr.ee/rakshasria1
 - Email: jimira7sarange@gmail.com
 
