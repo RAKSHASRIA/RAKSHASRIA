@@ -50,7 +50,7 @@ Here are some of the projects I'm proud of:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAKSHASRIA
 &label=Profile%20views&color=0e75b6&style=flat" alt="rakshasria" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAKSHASRIA" alt="rakshasria" /></a> </p>
+
 
 
 ## Let's Connect
