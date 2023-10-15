@@ -1,8 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--view count-->
-[![viewcount](https://view-counter.tobyhagan.com/?user=RAKSHASRIA/view-counter&base=30373e&accent=32c754)](https://github.com/lrth06/view-counter/actions/workflows/gcrdeploy.yml/badge.svg)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -35,6 +33,9 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 - 👯 I’m looking to collaborate on ML Projects.
 - 💬 Ask me about Python and flutter.
 - 📫 How to reach me: jimira7sarange@gmail.com.
+
+## view count
+![Profile Views](https://img.shields.io/github/followers/RAKSHASRIA?label=Profile%20Views&color=brightgreen)
 
 ## My GitHub Stats
 
