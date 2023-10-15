@@ -37,6 +37,9 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 ## view count
 ![Profile Views](https://img.shields.io/github/followers/RAKSHASRIA?label=Profile%20Views&color=brightgreen)
 
+## streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RAKSHASRIA)](https://git.io/streak-stats)
+
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAKSHASRIA&show_icons=true&theme=radical)
