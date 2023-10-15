@@ -1,6 +1,8 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--view count-->
+[![viewcount](https://view-counter.tobyhagan.com/?user=RAKSHASRIA/view-counter&base=30373e&accent=32c754)](https://github.com/lrth06/view-counter/actions/workflows/gcrdeploy.yml/badge.svg)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
