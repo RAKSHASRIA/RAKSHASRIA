@@ -31,6 +31,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 - 🔭 I’m currently working as an intern in Indworks.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on ML Projects.
+- 🚀 Aspiring UI/UX Designer, ready to work on projects.
 - 💬 Ask me about Python and flutter.
 - 📫 How to reach me: jimira7sarange@gmail.com.
 
