@@ -33,7 +33,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 - 👯 I’m looking to collaborate on ML Projects.
 - 🚀 Aspiring UI/UX Designer, ready to work on projects.
 - 💬 Ask me about Python and flutter.
-- 📫 How to reach me: jimira7sarange@gmail.com.
+- 📫 How to reach me: rakshasria7@gmail.com.
 
 ## view count
 ![Profile Views](https://img.shields.io/github/followers/RAKSHASRIA?label=Profile%20Views&color=brightgreen)
