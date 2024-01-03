@@ -51,7 +51,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 
 ## My Projects 
 
-Here are some of the projects I'm proud of:
+Here are some of the projects:
 
 - To-Do list(https://github.com/RAKSHASRIA/to-do-list.git): A intern task that gave me lot of knowledge and experiance. It is a ToDo list app which is useful for our daily routines...
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAKSHASRIA
