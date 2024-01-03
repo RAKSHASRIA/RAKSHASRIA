@@ -63,7 +63,7 @@ Here are some of the projects:
 
 - LinkedIn: https:https://www.linkedin.com/in/raksha-sri-237743250/
 - Personal Website/Blog: https://linktr.ee/rakshasria1
-- Email: jimira7sarange@gmail.com
+- Email: rakshasria7@gmail.com
 
 Feel free to reach out to me, and let's connect! 😊
 
