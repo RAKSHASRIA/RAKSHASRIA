@@ -36,7 +36,7 @@ I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
 - 📫 How to reach me: rakshasria7@gmail.com.
 
 ## view count
-![Profile Views](https://img.shields.io/github/followers/RAKSHASRIA?label=Profile%20Views&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=RAKSHASRIA)
 
 ## streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RAKSHASRIA)
