@@ -8,7 +8,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm RAKSHA SRI A</h1></summary>
   </ul>
 </div>
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 
 
