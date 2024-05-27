@@ -5,8 +5,7 @@
  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=Hi+👋...;   +My+name+is+Raksha+Sri+ 
- ;Welcome+to+my+Github" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=Hi+👋...;***+My+name+is+Raksha+Sri+***;***+Welcome+to+my+Github+***" alt="Typing SVG" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
