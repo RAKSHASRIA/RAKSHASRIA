@@ -20,6 +20,8 @@
   </ul>
 </div>
 
+ <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
+ 
 ## About Me
 
 I'm a passionate Creator with a keen interest in ML. I enjoy Solving Problems.
