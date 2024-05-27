@@ -8,6 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm RAKSHA SRI A</h1></summary>
   </ul>
 </div>
+
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 
 
