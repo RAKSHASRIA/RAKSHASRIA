@@ -13,7 +13,7 @@
 <div align="center">
     ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 </div>
-![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <!--h2 without bottom border-->
