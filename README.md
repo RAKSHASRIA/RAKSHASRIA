@@ -10,10 +10,8 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
+<div align="center">
     ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
-  </ul>
 </div>
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 
