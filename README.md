@@ -3,8 +3,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
- 
-<!--h1 without bottom border-->
 
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=Hi 👋My+name+is+Raksha+Sri;Welcome+to+my+Github)
 
