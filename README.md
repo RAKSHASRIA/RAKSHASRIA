@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Confusion+is+the+part+of+Programming;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Confusion+is+the+part+of;Programming;" alt="Typing SVG" />
   </a>
 </div>
  
