@@ -5,11 +5,7 @@
  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
  
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm RAKSHA SRI A</h1></summary>
-  </ul>
-</div>
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=Hi 👋My+name+is+Raksha+Sri;Welcome+to+my+Github)
 
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 
