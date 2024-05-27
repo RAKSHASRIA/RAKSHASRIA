@@ -59,7 +59,8 @@ Here are some of the projects:
 - LinkedIn: https:https://www.linkedin.com/in/raksha-sri-237743250/
 - Personal Website/Blog: https://linktr.ee/rakshasria1
 - Email: rakshasria7@gmail.com
-  
+
+  <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 
 <div style="text-align: right;">
   <img src="https://camo.githubusercontent.com/ed12c9bd102cf57ec6ffb9d9b7fbd754528d0cff80e64490fe9c2d817ea3dfeb/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6174323762677459724b7341414141692f707572706c652d6261742e676966" alt="Bat Signal" width="300"/>
